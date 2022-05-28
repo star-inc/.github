@@ -6,6 +6,6 @@
 [`website`](https://opensource.starinc.xyz/)
 [`roadmap`](https://github.com/star-inc/roadmap)
 [`github`](https://github.com/star-inc)
-[`github-roadmap`](ROADMAP.md)
-[`github-sub_orgs`](SUB_ORGS.md)
+[`github-roadmap`](/ROADMAP.md)
+[`github-sub_orgs`](/SUB_ORGS.md)
 [`gitlab`](https://gitlab.com/star-inc)
