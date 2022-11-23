@@ -1,6 +1,8 @@
 ## OpenSource Zone of Star Inc.
 
-    Star Inc. ❤️ OpenSource
+```js
+console.log("Star Inc. ❤️ OpenSource");
+```
 
 `>>`
 [`website`](https://opensource.starinc.xyz/)
