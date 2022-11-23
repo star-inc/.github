@@ -1,6 +1,6 @@
 ## OpenSource Zone of Star Inc.
 
-    [Star Inc. ❤️ OpenSource](https://opensource.starinc.xyz/)
+    Star Inc. ❤️ OpenSource
 
 `>>`
 [`website`](https://opensource.starinc.xyz/)
@@ -9,3 +9,5 @@
 [`github-roadmap`](/ROADMAP.md)
 [`github-sub_orgs`](/SUB_ORGS.md)
 [`gitlab`](https://gitlab.com/star-inc)
+
+> Star Inc. OSS Zone <https://opensource.starinc.xyz>
